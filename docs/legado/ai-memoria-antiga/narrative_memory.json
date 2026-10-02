@@ -1,0 +1,98 @@
+{
+  "resumo_geral": "A história explora a busca humana por conhecimento e a evolução do pensamento científico, através de narrativas pessoais e reflexões filosóficas sobre a natureza da curiosidade e da ciência.",
+  "timeline": [
+    {
+      "evento": "Pai conta história sobre matemático em campo de concentração",
+      "local": "1.1.Nossa vontade de saber",
+      "impacto": "alto"
+    },
+    {
+      "evento": "Reflexão sobre a evolução do conhecimento humano",
+      "local": "1.1.Nossa vontade de saber",
+      "impacto": "alto"
+    },
+    {
+      "evento": "Discussão sobre transporte interplanetário com colega",
+      "local": "1.1.Nossa vontade de saber",
+      "impacto": "medio"
+    },
+    {
+      "evento": "Experiência com criaturas em Urynio",
+      "local": "1.2.Curiosidade",
+      "impacto": "alto"
+    },
+    {
+      "evento": "Reflexão sobre a ancestralidade humana",
+      "local": "1.2.Curiosidade",
+      "impacto": "alto"
+    },
+    {
+      "evento": "Narrativa sobre a vida do protagonista e suas interações sociais",
+      "local": "O escondido",
+      "impacto": "medio"
+    }
+  ],
+  "personagens": [
+    {
+      "nome": "Pai",
+      "estado_atual": "conta histórias sobre sua vida e experiências",
+      "arco": "não está presente na narrativa atual",
+      "ultima_aparicao": "1.1.Nossa vontade de saber"
+    },
+    {
+      "nome": "Autor (narrador)",
+      "estado_atual": "refletindo sobre a busca por conhecimento e suas experiências",
+      "arco": "em busca de entender a evolução do conhecimento humano",
+      "ultima_aparicao": "1.2.Curiosidade"
+    },
+    {
+      "nome": "Benjamin",
+      "estado_atual": "trabalhando em projeto de transporte capsular",
+      "arco": "desenvolvendo tecnologia interplanetária",
+      "ultima_aparicao": "1.1.Nossa vontade de saber"
+    },
+    {
+      "nome": "Levi",
+      "estado_atual": "colega do narrador em expedição",
+      "arco": "participando de exploração em Urynio",
+      "ultima_aparicao": "1.2.Curiosidade"
+    },
+    {
+      "nome": "Simon",
+      "estado_atual": "ex-colega do narrador, com quem ele tenta se reconectar",
+      "arco": "em um relacionamento distante",
+      "ultima_aparicao": "O escondido"
+    }
+  ],
+  "temas": [
+    "busca pelo conhecimento",
+    "evolução do pensamento científico",
+    "conexões sociais e solidão"
+  ],
+  "conflitos_abertos": [
+    {
+      "conflito": "Busca por conhecimento versus limitações sociais",
+      "envolvidos": "Autor e sociedade"
+    },
+    {
+      "conflito": "Conflito interno sobre a solidão e a necessidade de conexão",
+      "envolvidos": "Narrador"
+    }
+  ],
+  "mundo": {
+    "locais_mencionados": [
+      "Cypi",
+      "Kawes",
+      "Urynio",
+      "Haminon"
+    ],
+    "regras_do_mundo": [
+      "Existem 96 galáxias habitadas por diferentes espécies humanas",
+      "A evolução e a curiosidade são características fundamentais da espécie humana"
+    ]
+  },
+  "alertas": [
+    "Possível falta de clareza na conexão entre as narrativas pessoais e a filosofia apresentada"
+  ],
+  "last_updated": "2026-07-10T19:20:01.044868"
+}

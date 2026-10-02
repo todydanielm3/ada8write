@@ -1,0 +1,51 @@
+# Arquivos ignorados pelo controle de versão
+
+# Backups automáticos
+*.bak
+*.bak-*
+
+# Sistema
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Saída de build de cada livro
+livros/*/99_build/
+livros/*/book.md
+
+# Memória e cache da IA (por livro) — nunca versionar
+livros/*/.ai/cache/
+.ai_assistant/.env
+.ai_assistant/cache/
+.ai_assistant/*.json
+__pycache__/
+*.pyc
+
+# Qual livro está ativo é preferência local da máquina
+.livro-ativo
+
+# Editor
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/keybindings.json
+*.swp
+*.swo
+*~
+.idea/
+
+# NeoVim
+.nvim/lazy-lock.json
+.nvim/plugin/
+
+# Logs e temporários
+*.log
+tmp/
+temp/
+*.tmp

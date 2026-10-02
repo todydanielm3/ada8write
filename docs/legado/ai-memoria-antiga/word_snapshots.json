@@ -1,0 +1,388 @@
+[
+  {
+    "date": "2026-02-13",
+    "timestamp": "2026-02-13T12:16:39.079762",
+    "totals": {
+      "personagens": 479,
+      "cenas": 560,
+      "capitulos": 136,
+      "notas": 34,
+      "total": 1209
+    },
+    "files": {
+      "personagens/Corgel.md": 261,
+      "personagens/Hendrik.md": 210,
+      "personagens/teste3.md": 8,
+      "cenas/20260205-224355-outr-censa-qualquer.md": 114,
+      "cenas/20260213-115208-teste-2-contexto-cena.md": 115,
+      "cenas/Corgel-c1.md": 195,
+      "cenas/nova-cena2.md": 11,
+      "cenas/o-homem-do-norte.md": 8,
+      "cenas/quarta-cena.md": 14,
+      "cenas/segunda-cena.md": 7,
+      "cenas/terceira-cena": 8,
+      "cenas/testando-novas-informações.md": 52,
+      "cenas/uma-cena-qualquer.md": 36,
+      "capitulos/cap-00-exemplo.md": 136,
+      "notas/p1.md": 24,
+      "notas/p2.md": 10
+    }
+  },
+  {
+    "date": "2026-02-16",
+    "timestamp": "2026-02-16T16:09:00.530837",
+    "totals": {
+      "personagens": 479,
+      "cenas": 560,
+      "capitulos": 136,
+      "notas": 34,
+      "total": 1209
+    },
+    "files": {
+      "personagens/Corgel.md": 261,
+      "personagens/Hendrik.md": 210,
+      "personagens/teste3.md": 8,
+      "cenas/20260205-224355-outr-censa-qualquer.md": 114,
+      "cenas/20260213-115208-teste-2-contexto-cena.md": 115,
+      "cenas/Corgel-c1.md": 195,
+      "cenas/nova-cena2.md": 11,
+      "cenas/o-homem-do-norte.md": 8,
+      "cenas/quarta-cena.md": 14,
+      "cenas/segunda-cena.md": 7,
+      "cenas/terceira-cena": 8,
+      "cenas/testando-novas-informações.md": 52,
+      "cenas/uma-cena-qualquer.md": 36,
+      "capitulos/cap-00-exemplo.md": 136,
+      "notas/p1.md": 24,
+      "notas/p2.md": 10
+    }
+  },
+  {
+    "date": "2026-02-21",
+    "timestamp": "2026-02-21T17:10:22.559502",
+    "totals": {
+      "personagens": 515,
+      "cenas": 865,
+      "capitulos": 136,
+      "notas": 34,
+      "total": 1550
+    },
+    "files": {
+      "personagens/Corgel.md": 261,
+      "personagens/Hendrik.md": 210,
+      "personagens/Luca.md": 12,
+      "personagens/Rocco.md": 9,
+      "personagens/Simone.md": 15,
+      "personagens/teste3.md": 8,
+      "cenas/20260205-224355-outr-censa-qualquer.md": 114,
+      "cenas/20260213-115208-teste-2-contexto-cena.md": 115,
+      "cenas/Corgel-c1.md": 195,
+      "cenas/nova-cena2.md": 11,
+      "cenas/o-homem-do-norte.md": 8,
+      "cenas/quarta-cena.md": 14,
+      "cenas/rocco-c1.md": 305,
+      "cenas/segunda-cena.md": 7,
+      "cenas/terceira-cena": 8,
+      "cenas/testando-novas-informações.md": 52,
+      "cenas/uma-cena-qualquer.md": 36,
+      "capitulos/cap-00-exemplo.md": 136,
+      "notas/p1.md": 24,
+      "notas/p2.md": 10
+    }
+  },
+  {
+    "date": "2026-03-08",
+    "timestamp": "2026-03-08T23:14:01.088448",
+    "totals": {
+      "personagens": 593,
+      "cenas": 865,
+      "capitulos": 136,
+      "notas": 34,
+      "total": 1628
+    },
+    "files": {
+      "personagens/Corgel.md": 261,
+      "personagens/Dario.md": 86,
+      "personagens/Hendrik.md": 210,
+      "personagens/Luca.md": 12,
+      "personagens/Rocco.md": 9,
+      "personagens/Simone.md": 15,
+      "cenas/20260205-224355-outr-censa-qualquer.md": 114,
+      "cenas/20260213-115208-teste-2-contexto-cena.md": 115,
+      "cenas/Corgel-c1.md": 195,
+      "cenas/nova-cena2.md": 11,
+      "cenas/o-homem-do-norte.md": 8,
+      "cenas/quarta-cena.md": 14,
+      "cenas/rocco-c1.md": 305,
+      "cenas/segunda-cena.md": 7,
+      "cenas/terceira-cena": 8,
+      "cenas/testando-novas-informações.md": 52,
+      "cenas/uma-cena-qualquer.md": 36,
+      "capitulos/cap-00-exemplo.md": 136,
+      "notas/p1.md": 24,
+      "notas/p2.md": 10
+    }
+  },
+  {
+    "date": "2026-03-14",
+    "timestamp": "2026-03-14T12:42:55.364133",
+    "totals": {
+      "personagens": 593,
+      "cenas": 865,
+      "capitulos": 718,
+      "notas": 34,
+      "total": 2210
+    },
+    "files": {
+      "personagens/Corgel.md": 261,
+      "personagens/Dario.md": 86,
+      "personagens/Hendrik.md": 210,
+      "personagens/Luca.md": 12,
+      "personagens/Rocco.md": 9,
+      "personagens/Simone.md": 15,
+      "cenas/20260205-224355-outr-censa-qualquer.md": 114,
+      "cenas/20260213-115208-teste-2-contexto-cena.md": 115,
+      "cenas/Corgel-c1.md": 195,
+      "cenas/nova-cena2.md": 11,
+      "cenas/o-homem-do-norte.md": 8,
+      "cenas/quarta-cena.md": 14,
+      "cenas/rocco-c1.md": 305,
+      "cenas/segunda-cena.md": 7,
+      "cenas/terceira-cena": 8,
+      "cenas/testando-novas-informações.md": 52,
+      "cenas/uma-cena-qualquer.md": 36,
+      "capitulos/P1-C1.md": 582,
+      "capitulos/cap-00-exemplo.md": 136,
+      "notas/p1.md": 24,
+      "notas/p2.md": 10
+    }
+  },
+  {
+    "date": "2026-03-15",
+    "timestamp": "2026-03-15T19:53:10.959263",
+    "totals": {
+      "personagens": 0,
+      "cenas": 0,
+      "capitulos": 2564,
+      "notas": 0,
+      "total": 2564
+    },
+    "files": {
+      "capitulos/1.1.Nossa vontade de saber.txt": 2557,
+      "capitulos/1.2.Curiosidade.txt": 7
+    }
+  },
+  {
+    "date": "2026-03-21",
+    "timestamp": "2026-03-21T19:46:01.821557",
+    "totals": {
+      "personagens": 0,
+      "cenas": 0,
+      "capitulos": 2564,
+      "notas": 0,
+      "total": 2564
+    },
+    "files": {
+      "capitulos/1.1.Nossa vontade de saber.txt": 2557,
+      "capitulos/1.2.Curiosidade.txt": 7
+    }
+  },
+  {
+    "date": "2026-03-22",
+    "timestamp": "2026-03-22T22:32:14.110470",
+    "totals": {
+      "personagens": 0,
+      "cenas": 0,
+      "capitulos": 3433,
+      "notas": 0,
+      "total": 3433
+    },
+    "files": {
+      "capitulos/1.1.Nossa vontade de saber.txt": 2557,
+      "capitulos/1.2.Curiosidade.txt": 876
+    }
+  },
+  {
+    "date": "2026-03-29",
+    "timestamp": "2026-03-29T10:32:06.304450",
+    "totals": {
+      "personagens": 0,
+      "cenas": 0,
+      "capitulos": 3433,
+      "notas": 0,
+      "total": 3433
+    },
+    "files": {
+      "capitulos/1.1.Nossa vontade de saber.txt": 2557,
+      "capitulos/1.2.Curiosidade.txt": 876
+    }
+  },
+  {
+    "date": "2026-04-03",
+    "timestamp": "2026-04-03T16:37:31.086516",
+    "totals": {
+      "personagens": 0,
+      "cenas": 0,
+      "capitulos": 3684,
+      "notas": 0,
+      "total": 3684
+    },
+    "files": {
+      "capitulos/1.1.Nossa vontade de saber.txt": 2557,
+      "capitulos/1.2.Curiosidade.txt": 1127
+    }
+  },
+  {
+    "date": "2026-04-24",
+    "timestamp": "2026-04-24T14:18:25.072153",
+    "totals": {
+      "personagens": 0,
+      "cenas": 0,
+      "capitulos": 3684,
+      "notas": 0,
+      "total": 3684
+    },
+    "files": {
+      "capitulos/1.1.Nossa vontade de saber.txt": 2557,
+      "capitulos/1.2.Curiosidade.txt": 1127
+    }
+  },
+  {
+    "date": "2026-07-07",
+    "timestamp": "2026-07-07T12:18:51.815347",
+    "totals": {
+      "personagens": 0,
+      "cenas": 0,
+      "capitulos": 4166,
+      "notas": 0,
+      "total": 4166
+    },
+    "files": {
+      "capitulos/1.1.Nossa vontade de saber.txt": 2557,
+      "capitulos/1.2.Curiosidade.txt": 1609
+    }
+  },
+  {
+    "date": "2026-07-10",
+    "timestamp": "2026-07-10T19:25:10.214427",
+    "totals": {
+      "personagens": 0,
+      "cenas": 0,
+      "capitulos": 6055,
+      "notas": 0,
+      "total": 6055
+    },
+    "files": {
+      "capitulos/1.1.Nossa vontade de saber.txt": 2557,
+      "capitulos/1.2.Curiosidade.txt": 1642,
+      "capitulos/O escondido_ep1.txt": 1856
+    }
+  },
+  {
+    "date": "2026-07-13",
+    "timestamp": "2026-07-13T19:49:55.627960",
+    "totals": {
+      "personagens": 0,
+      "cenas": 0,
+      "capitulos": 7958,
+      "notas": 0,
+      "total": 7958
+    },
+    "files": {
+      "capitulos/1.1.Nossa vontade de saber.txt": 2557,
+      "capitulos/1.2.Curiosidade.txt": 1642,
+      "capitulos/O escondido_ep1.txt": 1856,
+      "capitulos/O escondido_ep2.txt": 1903
+    }
+  },
+  {
+    "date": "2026-07-14",
+    "timestamp": "2026-07-14T15:38:35.336160",
+    "totals": {
+      "personagens": 0,
+      "cenas": 0,
+      "capitulos": 8038,
+      "notas": 0,
+      "total": 8038
+    },
+    "files": {
+      "capitulos/1.1.Nossa vontade de saber.txt": 2557,
+      "capitulos/1.2.Curiosidade.txt": 1642,
+      "capitulos/O escondido_ep1.txt": 1856,
+      "capitulos/O escondido_ep2.txt": 1983
+    }
+  },
+  {
+    "date": "2026-07-18",
+    "timestamp": "2026-07-18T22:42:04.268655",
+    "totals": {
+      "personagens": 0,
+      "cenas": 0,
+      "capitulos": 9349,
+      "notas": 0,
+      "total": 9349
+    },
+    "files": {
+      "capitulos/1.1.Nossa vontade de saber.txt": 2557,
+      "capitulos/1.2.Curiosidade.txt": 1642,
+      "capitulos/O escondido_ep1.txt": 1856,
+      "capitulos/O escondido_ep2.txt": 3294
+    }
+  },
+  {
+    "date": "2026-07-24",
+    "timestamp": "2026-07-24T14:36:25.504726",
+    "totals": {
+      "personagens": 0,
+      "cenas": 0,
+      "capitulos": 12674,
+      "notas": 0,
+      "total": 12674
+    },
+    "files": {
+      "capitulos/1.1.Nossa vontade de saber.txt": 2557,
+      "capitulos/1.2.Curiosidade.txt": 1642,
+      "capitulos/O escondido_ep1.txt": 1856,
+      "capitulos/O escondido_ep2.txt": 3294,
+      "capitulos/O escondido_ep3.txt": 3325
+    }
+  },
+  {
+    "date": "2026-09-03",
+    "timestamp": "2026-09-03T12:31:24.505124",
+    "totals": {
+      "personagens": 0,
+      "cenas": 313,
+      "capitulos": 12674,
+      "notas": 0,
+      "total": 12987
+    },
+    "files": {
+      "cenas/20260903-110954-de-volta-no-futuro.txt.md": 313,
+      "capitulos/1.1.Nossa vontade de saber.txt": 2557,
+      "capitulos/1.2.Curiosidade.txt": 1642,
+      "capitulos/O escondido_ep1.txt": 1856,
+      "capitulos/O escondido_ep2.txt": 3294,
+      "capitulos/O escondido_ep3.txt": 3325
+    }
+  },
+  {
+    "date": "2026-10-02",
+    "timestamp": "2026-10-02T12:52:30.114255",
+    "totals": {
+      "personagens": 0,
+      "cenas": 1635,
+      "capitulos": 12674,
+      "notas": 0,
+      "total": 14309
+    },
+    "files": {
+      "cenas/20260903-110954-de-volta-no-futuro.txt": 1635,
+      "capitulos/1.1.Nossa vontade de saber.txt": 2557,
+      "capitulos/1.2.Curiosidade.txt": 1642,
+      "capitulos/O escondido_ep1.txt": 1856,
+      "capitulos/O escondido_ep2.txt": 3294,
+      "capitulos/O escondido_ep3.txt": 3325
+    }
+  }
+]

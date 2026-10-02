@@ -1,0 +1,94 @@
+[
+  // ========================================
+  // ATALHOS - MODO ESCRITA
+  // ========================================
+  
+  // === NAVEGAÇÃO RÁPIDA ===
+  {
+    "key": "cmd+1",
+    "command": "workbench.files.action.focusFilesExplorer",
+    "when": "!editorFocus"
+  },
+  {
+    "key": "cmd+2",
+    "command": "markdown.showPreviewToSide",
+    "when": "editorLangId == 'markdown'"
+  },
+  {
+    "key": "cmd+shift+v",
+    "command": "markdown.showPreview",
+    "when": "editorLangId == 'markdown'"
+  },
+  
+  // === CONTAGEM DE PALAVRAS ===
+  {
+    "key": "cmd+shift+w",
+    "command": "workbench.action.terminal.sendSequence",
+    "args": {
+      "text": "wc -w ${file}\n"
+    },
+    "when": "editorLangId == 'markdown'"
+  },
+  
+  // === LANGUAGETOOL (Gramática) - Toggle ===
+  {
+    "key": "cmd+shift+g",
+    "command": "ltex.checkCurrentDocument",
+    "when": "editorLangId == 'markdown'"
+  },
+  
+  // === REWRAP - Reformatar parágrafo ===
+  {
+    "key": "alt+q",
+    "command": "rewrap.rewrapComment",
+    "when": "editorTextFocus"
+  },
+  
+  // === ZEN MODE ===
+  {
+    "key": "cmd+k z",
+    "command": "workbench.action.toggleZenMode"
+  },
+  
+  // === FOCO NO EDITOR ===
+  {
+    "key": "cmd+0",
+    "command": "workbench.action.focusActiveEditorGroup"
+  },
+  
+  // === TASKS - BUILD & EXPORT ===
+  {
+    "key": "cmd+shift+b",
+    "command": "workbench.action.tasks.runTask",
+    "args": "Build book"
+  },
+  {
+    "key": "cmd+shift+e",
+    "command": "workbench.action.tasks.runTask",
+    "args": "Export book"
+  },
+  
+  // === SPELL CHECKER - Toggle ===
+  {
+    "key": "cmd+shift+s",
+    "command": "cSpell.toggleEnableSpellChecker"
+  },
+  
+  // === MARKDOWN - Formatação ===
+  {
+    "key": "cmd+b",
+    "command": "markdown.extension.editing.toggleBold",
+    "when": "editorTextFocus && editorLangId == 'markdown'"
+  },
+  {
+    "key": "cmd+i",
+    "command": "markdown.extension.editing.toggleItalic",
+    "when": "editorTextFocus && editorLangId == 'markdown'"
+  },
+  
+  // === SALVAR TODOS ===
+  {
+    "key": "cmd+alt+s",
+    "command": "workbench.action.files.saveAll"
+  }
+]

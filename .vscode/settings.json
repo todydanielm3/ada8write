@@ -1,0 +1,145 @@
+{
+  // ========================================
+  // CONFIGURAÇÕES - MODO ESCRITA
+  // ========================================
+  
+  // === EDITOR GERAL ===
+  "editor.wordWrap": "on",
+  "editor.wordWrapColumn": 80,
+  "editor.wrappingIndent": "indent",
+  "editor.lineNumbers": "on",
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "none",
+  "editor.renderControlCharacters": false,
+  "editor.rulers": [],
+  "editor.fontSize": 14,
+  "editor.lineHeight": 1.6,
+  "editor.fontFamily": "'SF Mono', Menlo, Monaco, 'Courier New', monospace",
+  "editor.quickSuggestions": {
+    "other": false,
+    "comments": false,
+    "strings": false
+  },
+  "editor.suggestOnTriggerCharacters": false,
+  "editor.acceptSuggestionOnEnter": "off",
+  "editor.tabCompletion": "off",
+  "editor.wordBasedSuggestions": "off",
+  "editor.parameterHints.enabled": false,
+  
+  // === TEXTO PURO (.txt é o formato padrão de escrita) ===
+  "[plaintext]": {
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": {
+      "other": false,
+      "comments": false,
+      "strings": false
+    },
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false
+  },
+
+  // === MARKDOWN ===
+  "[markdown]": {
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": {
+      "other": false,
+      "comments": false,
+      "strings": false
+    },
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one",
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false
+  },
+  
+  // Markdown All in One
+  "markdown.extension.toc.levels": "2..3",
+  "markdown.extension.list.indentationSize": "adaptive",
+  "markdown.extension.italic.indicator": "_",
+  "markdown.extension.bold.indicator": "**",
+  "markdown.extension.orderedList.marker": "one",
+  
+  // Markdown Preview
+  "markdown.preview.scrollEditorWithPreview": true,
+  "markdown.preview.scrollPreviewWithEditor": true,
+  "markdown.preview.breaks": true,
+  "markdown.preview.typographer": true,
+  
+  // Markdownlint - Regras suaves
+  "markdownlint.config": {
+    "MD013": false,  // Comprimento de linha (deixar livre)
+    "MD033": false,  // HTML inline (permitir)
+    "MD041": false,  // Primeiro linha não precisa ser heading
+    "MD025": false,  // Múltiplos H1 (permitir)
+    "MD024": false,  // Headings duplicados (permitir)
+    "MD046": false,  // Code block style (permitir variação)
+  },
+  
+  // === CORRETOR ORTOGRÁFICO ===
+  "cSpell.language": "pt-BR,pt,en",
+  "cSpell.enabled": true,
+  "cSpell.enableFiletypes": [
+    "markdown",
+    "plaintext"
+  ],
+  "cSpell.userWords": [],
+  
+  // === LANGUAGETOOL (Gramática) ===
+  // Desligado por padrão - ativar manualmente para revisão
+  "ltex.enabled": false,
+  "ltex.language": "pt-BR",
+  "ltex.checkFrequency": "save",
+  "ltex.diagnosticSeverity": "information",
+  
+  // === INTERFACE ===
+  "workbench.colorTheme": "Default Dark Modern",
+  "workbench.statusBar.visible": true,
+  "workbench.activityBar.visible": true,
+  "workbench.editor.enablePreview": false,
+  "workbench.startupEditor": "none",
+  
+  // === ARQUIVOS ===
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 2000,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.DS_Store": true,
+    "**/node_modules": true,
+    "**/*.bak-*": true
+  },
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/node_modules/**": true,
+    "**/.hg/store/**": true,
+    "**/99_build/**": true
+  },
+  
+  // === BUSCA ===
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/*.code-search": true,
+    "**/99_build": true,
+    "**/.git": true,
+    "**/*.bak-*": true
+  },
+  
+  // === TERMINAL ===
+  "terminal.integrated.fontSize": 13,
+  "terminal.integrated.fontFamily": "'SF Mono', Menlo, Monaco",
+  
+  // === BREADCRUMBS ===
+  "breadcrumbs.enabled": true,
+  
+  // === GIT ===
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  
+  // === PASTE IMAGE ===
+  "pasteImage.path": "${projectRoot}/assets/images",
+  "pasteImage.basePath": "${projectRoot}",
+  "pasteImage.prefix": "./",
+  
+  // === REWRAP ===
+  "rewrap.wrappingColumn": 80,
+  "rewrap.autoWrap.enabled": false
+}

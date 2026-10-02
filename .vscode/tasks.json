@@ -1,0 +1,123 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Menu do ateliê",
+      "type": "shell",
+      "command": "${workspaceFolder}/scripts/menu.sh",
+      "group": "none",
+      "presentation": { "reveal": "always", "panel": "new", "clear": true },
+      "problemMatcher": []
+    },
+    {
+      "label": "Montar livro (livro ativo)",
+      "type": "shell",
+      "command": "${workspaceFolder}/scripts/build.sh",
+      "args": ["--yes"],
+      "group": { "kind": "build", "isDefault": true },
+      "presentation": { "reveal": "always", "panel": "new", "clear": true },
+      "problemMatcher": []
+    },
+    {
+      "label": "Exportar PDF/DOCX/EPUB",
+      "type": "shell",
+      "command": "${workspaceFolder}/scripts/export.sh",
+      "group": "none",
+      "presentation": { "reveal": "always", "panel": "new", "clear": true },
+      "problemMatcher": []
+    },
+    {
+      "label": "Contar palavras",
+      "type": "shell",
+      "command": "${workspaceFolder}/scripts/wordcount.sh",
+      "group": "none",
+      "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+      "problemMatcher": []
+    },
+    {
+      "label": "Novo capítulo",
+      "type": "shell",
+      "command": "${workspaceFolder}/scripts/new_chapter.sh",
+      "args": ["${input:chapterName}"],
+      "group": "none",
+      "presentation": { "reveal": "always", "panel": "shared" },
+      "problemMatcher": []
+    },
+    {
+      "label": "Nova cena",
+      "type": "shell",
+      "command": "${workspaceFolder}/scripts/new_scene.sh",
+      "args": ["${input:sceneName}"],
+      "group": "none",
+      "presentation": { "reveal": "always", "panel": "shared" },
+      "problemMatcher": []
+    },
+    {
+      "label": "Novo personagem",
+      "type": "shell",
+      "command": "${workspaceFolder}/scripts/new_character.sh",
+      "args": ["${input:characterName}"],
+      "group": "none",
+      "presentation": { "reveal": "always", "panel": "shared" },
+      "problemMatcher": []
+    },
+    {
+      "label": "Novo livro",
+      "type": "shell",
+      "command": "${workspaceFolder}/scripts/new_book.sh",
+      "args": ["${input:bookTitle}"],
+      "group": "none",
+      "presentation": { "reveal": "always", "panel": "shared" },
+      "problemMatcher": []
+    },
+    {
+      "label": "Livros do workspace / trocar",
+      "type": "shell",
+      "command": "${workspaceFolder}/scripts/books.sh",
+      "args": ["${input:bookSlug}"],
+      "group": "none",
+      "presentation": { "reveal": "always", "panel": "shared", "clear": true },
+      "problemMatcher": []
+    },
+    {
+      "label": "Abrir NeoVim (livro ativo)",
+      "type": "shell",
+      "command": "${workspaceFolder}/scripts/nvimw.sh",
+      "group": "none",
+      "presentation": { "reveal": "always", "panel": "new" },
+      "problemMatcher": []
+    }
+  ],
+  "inputs": [
+    {
+      "id": "chapterName",
+      "type": "promptString",
+      "description": "Nome do capítulo (ex: 1.3.O retorno)",
+      "default": "1.1.Novo capitulo"
+    },
+    {
+      "id": "sceneName",
+      "type": "promptString",
+      "description": "Nome da cena (ex: confronto-biblioteca)",
+      "default": "nova-cena"
+    },
+    {
+      "id": "characterName",
+      "type": "promptString",
+      "description": "Nome do personagem (ex: maria-silva)",
+      "default": "novo-personagem"
+    },
+    {
+      "id": "bookTitle",
+      "type": "promptString",
+      "description": "Título do novo livro",
+      "default": "Novo Livro"
+    },
+    {
+      "id": "bookSlug",
+      "type": "promptString",
+      "description": "Slug do livro para ativar (vazio = apenas listar)",
+      "default": ""
+    }
+  ]
+}
